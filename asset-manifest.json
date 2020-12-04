@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/pavang707.github.io/youtube-clone/static/css/main.ad1d364b.chunk.css",
+    "main.js": "/pavang707.github.io/youtube-clone/static/js/main.a644e9a5.chunk.js",
+    "main.js.map": "/pavang707.github.io/youtube-clone/static/js/main.a644e9a5.chunk.js.map",
+    "runtime-main.js": "/pavang707.github.io/youtube-clone/static/js/runtime-main.4152f949.js",
+    "runtime-main.js.map": "/pavang707.github.io/youtube-clone/static/js/runtime-main.4152f949.js.map",
+    "static/js/2.ff14c7b2.chunk.js": "/pavang707.github.io/youtube-clone/static/js/2.ff14c7b2.chunk.js",
+    "static/js/2.ff14c7b2.chunk.js.map": "/pavang707.github.io/youtube-clone/static/js/2.ff14c7b2.chunk.js.map",
+    "static/js/3.c7acd4dd.chunk.js": "/pavang707.github.io/youtube-clone/static/js/3.c7acd4dd.chunk.js",
+    "static/js/3.c7acd4dd.chunk.js.map": "/pavang707.github.io/youtube-clone/static/js/3.c7acd4dd.chunk.js.map",
+    "index.html": "/pavang707.github.io/youtube-clone/index.html",
+    "static/css/main.ad1d364b.chunk.css.map": "/pavang707.github.io/youtube-clone/static/css/main.ad1d364b.chunk.css.map",
+    "static/js/2.ff14c7b2.chunk.js.LICENSE.txt": "/pavang707.github.io/youtube-clone/static/js/2.ff14c7b2.chunk.js.LICENSE.txt",
+    "static/media/L-lc1cnnVLE-SD.ba3d2689.jpg": "/pavang707.github.io/youtube-clone/static/media/L-lc1cnnVLE-SD.ba3d2689.jpg",
+    "static/media/VwjFK1Q_-go-SD.3d27ddc3.jpg": "/pavang707.github.io/youtube-clone/static/media/VwjFK1Q_-go-SD.3d27ddc3.jpg",
+    "static/media/gDOmzKGUEf8-SD.f143a08c.jpg": "/pavang707.github.io/youtube-clone/static/media/gDOmzKGUEf8-SD.f143a08c.jpg",
+    "static/media/ijustine.1e900cab.jpg": "/pavang707.github.io/youtube-clone/static/media/ijustine.1e900cab.jpg",
+    "static/media/imx_-6tHjhw-SD.d02f76a2.jpg": "/pavang707.github.io/youtube-clone/static/media/imx_-6tHjhw-SD.d02f76a2.jpg",
+    "static/media/j1wFsMBArR0-SD.c24497d5.jpg": "/pavang707.github.io/youtube-clone/static/media/j1wFsMBArR0-SD.c24497d5.jpg",
+    "static/media/justinBeber.636ee361.jpg": "/pavang707.github.io/youtube-clone/static/media/justinBeber.636ee361.jpg",
+    "static/media/pnkuI8KXW_8-SD.a7708e4c.jpg": "/pavang707.github.io/youtube-clone/static/media/pnkuI8KXW_8-SD.a7708e4c.jpg",
+    "static/media/taylorSwift.1e88afb6.jpg": "/pavang707.github.io/youtube-clone/static/media/taylorSwift.1e88afb6.jpg",
+    "static/media/youtube.5213846a.svg": "/pavang707.github.io/youtube-clone/static/media/youtube.5213846a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4152f949.js",
+    "static/js/2.ff14c7b2.chunk.js",
+    "static/css/main.ad1d364b.chunk.css",
+    "static/js/main.a644e9a5.chunk.js"
+  ]
+}
