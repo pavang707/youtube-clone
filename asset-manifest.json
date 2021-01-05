@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pavang707.github.io/youtube-clone/static/css/main.ad1d364b.chunk.css",
-    "main.js": "/pavang707.github.io/youtube-clone/static/js/main.a644e9a5.chunk.js",
-    "main.js.map": "/pavang707.github.io/youtube-clone/static/js/main.a644e9a5.chunk.js.map",
+    "main.js": "/pavang707.github.io/youtube-clone/static/js/main.6104d9b4.chunk.js",
+    "main.js.map": "/pavang707.github.io/youtube-clone/static/js/main.6104d9b4.chunk.js.map",
     "runtime-main.js": "/pavang707.github.io/youtube-clone/static/js/runtime-main.4152f949.js",
     "runtime-main.js.map": "/pavang707.github.io/youtube-clone/static/js/runtime-main.4152f949.js.map",
     "static/js/2.ff14c7b2.chunk.js": "/pavang707.github.io/youtube-clone/static/js/2.ff14c7b2.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.4152f949.js",
     "static/js/2.ff14c7b2.chunk.js",
     "static/css/main.ad1d364b.chunk.css",
-    "static/js/main.a644e9a5.chunk.js"
+    "static/js/main.6104d9b4.chunk.js"
   ]
 }
